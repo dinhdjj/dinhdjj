@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinh Le</h1>
-<h3 align="center">A passionate TALL (Tailwind, Alpline, Laravel, Livewire) stacks developer from Vietnamese 🇻🇳</h3>
+<h3 align="center">A passionate TALL (Tailwind, Alpine, Laravel, Livewire) stacks developer from Vietnamese 🇻🇳</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dinhdjj&label=Profile%20views&color=0e75b6&style=flat" alt="dinhdjj" /> </p>
 
