@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinhdjj&show_icons=true&locale=en" alt="dinhdjj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dinhdjj&" alt="dinhdjj" /></p>
+
+<a href="https://app.daily.dev/dinhdjj"><img src="https://api.daily.dev/devcards/a0589a5d9575424bb5e058ae3ad47e39.png?r=cwa" width="400" alt="Le Dinh's Dev Card"/></a>
